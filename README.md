@@ -21,5 +21,13 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehan2007ahmad&show_icons=true&theme=radical)
+## 🌟 Contributions
+
+Here are some repositories I've contributed to:
+
+- [RestroX Clone](https://github.com/Rehan2007ahmad/restrox-clone)
+- [MERN Chat App](https://github.com/Rehan2007ahmad/mern-chat-app)
+- [Role-Based Blog](https://github.com/Rehan2007ahmad/role-based-blog)
+
+📊 View my full GitHub profile: [github.com/Rehan2007ahmad](https://github.com/Rehan2007ahmad)
 
